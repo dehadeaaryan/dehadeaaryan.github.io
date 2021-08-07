@@ -14,7 +14,7 @@
 
 &nbsp;
 
-![alt](/quacker/reqs/duck.JPG)
+![alt](/quacker/reqs/duck.jpg)
 
 &nbsp;
 
