@@ -1,4 +1,4 @@
-![alt](https://github.com/dehadeaaryan/dehadeaaryan.github.io/blob/main/quacker/reqs/quackerLogo.png?raw=true)
+![alt](/quacker/reqs/quackerLogo.png)
 
 ---
 
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-![alt](https://github.com/dehadeaaryan/dehadeaaryan.github.io/blob/main/quacker/reqs/duck.jpg?raw=true)
+![alt](/quacker/reqs/duck.jpg)
 
 &nbsp;
 
