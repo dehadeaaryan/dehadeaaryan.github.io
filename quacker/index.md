@@ -14,9 +14,6 @@
 
 &nbsp;
 
-![alt](/quacker/reqs/duck.jpg)
-
-&nbsp;
 
 ### Links
 
