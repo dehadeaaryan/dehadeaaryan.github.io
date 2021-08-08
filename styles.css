@@ -15,4 +15,50 @@ html {
     cursor: default;
 
     font-family: 'Trebuchet MS', sans-serif;
+    font-size: 5vw;
 }
+
+#container {
+  display: flex;
+  align-items: centre;
+  height: 97vh;
+  /*background-color: grey;*/
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center; 
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  margin: auto;
+}
+
+#footer {
+
+  font-size: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+
+@media (min-width: 768px) {
+
+#container {
+  text-align: left;
+  height: 98vh;
+}
+
+#footer {
+  font-size: 1vw;
+}
+
+}
+
+
+
+
+
+
+
